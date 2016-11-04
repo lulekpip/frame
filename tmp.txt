@@ -1,1 +1,1 @@
-//dodano frame do VCS control
+//dodano frame do VCS control // zmienione przez tmp
